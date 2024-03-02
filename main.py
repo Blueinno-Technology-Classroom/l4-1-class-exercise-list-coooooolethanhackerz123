@@ -39,7 +39,7 @@ Q4:
 words = ["It", "IS", "a", "dark", "and", "stormy", "night"]
 
 for w in words:
-    
+
     if "a" in w
         words.remove(w)
 
@@ -48,6 +48,10 @@ print(words)
 '''
 Q5:
 '''
+random = []
+for i in range(0,19,2):
+    random.append(i)
+print(random)
 
 # TODO: Write your code here
 
@@ -55,7 +59,12 @@ Q5:
 '''
 Q6:
 '''
-
+def fill(my_list,):
+    for i in range(len(random)):
+        random ["unknown","hackers","123$%^"] = 69
+random = [3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3]
+fill(random,0)
+print(random)
 # TODO: Write your code here
 
 ##################################################
